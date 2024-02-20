@@ -1,4 +1,4 @@
-const Jszip = require("jszip");
+
 const fsPromises = require("fs").promises;
 const zipper = require('zip-local')
 const promise = async () => {
